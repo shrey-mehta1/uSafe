@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256702929376",
+    "project_id": "usafe-final",
+    "storage_bucket": "usafe-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256702929376:android:2801af24e2867518507385",
+        "android_client_info": {
+          "package_name": "com.example.uSafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256702929376-ab6n2009fuk5843e2qanhnjvt93quqfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYxZT3MBQwdf-1A7OFJWvGrENtag7Qo90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256702929376-ab6n2009fuk5843e2qanhnjvt93quqfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
