@@ -1,4 +1,4 @@
 # WomenSafetyApp
-uSafe - A widget based women safety application
+uSafe - A widget based women safety Android application
 
 
